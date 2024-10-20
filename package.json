@@ -2,7 +2,7 @@
   "name": "cid-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikzeus.github.io/CID",
+  "homepage": "https://NikZeus.github.io/CID",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
